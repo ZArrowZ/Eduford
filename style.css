@@ -280,7 +280,7 @@ p {
   flex-wrap: wrap;
   justify-content: center;
   gap: 3rem;
-  margin: 4rem;
+  margin: 4rem 0;
 }
 .box-rate {
   background: var(--box-color);
